@@ -1,2 +1,4 @@
 hello 
 this is my text file
+changes done
+training session
